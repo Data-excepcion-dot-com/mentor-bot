@@ -6,6 +6,7 @@
     2.  [Installation](#org9c4e782)
     3.  [Launch](#org6f6550d)
     4.  [Resources](#orgf8323f5)
+    5.  [License](#orga77384e)
 
 
 
@@ -57,3 +58,7 @@ Aid your development journey with:
 
 -   [ChatGPT Official Documentation](https://beta.openai.com/docs/)
 -   [OpenAI&rsquo;s API pricing and rate limits](https://openai.com/pricing)
+
+## License
+
+This project is licensed under the MIT License - see the [Licence](./LICENSE.md) file for details.
